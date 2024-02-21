@@ -1,0 +1,4 @@
+name: mysqld-exporter-fork
+CX_PRODUCT: cap
+deployable_type: image
+version: v0.15.1
